@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
